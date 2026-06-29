@@ -1,1 +1,3 @@
 Day 2 Git Branch Practice
+
+Learning Git Stash - Day 6
